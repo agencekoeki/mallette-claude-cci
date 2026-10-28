@@ -1,6 +1,6 @@
 # Tests — cci-sync
 
-À lancer chacun dans une conversation neuve, sur un compte de test, après avoir vérifié que la mallette est installée (Paramètres › Plugins). Pour chacun : la compétence s'est-elle chargée (ou pas, pour le 5) ? Les étapes sont-elles dans l'ordre ? Rien n'a-t-il été fait avant le « oui » ? Le carnet dit-il la vérité ?
+À lancer chacun dans une conversation neuve, sur un compte de test, après avoir vérifié que la mallette est installée (Paramètres › Personnalisation › Plugins). Pour chacun : la compétence s'est-elle chargée (ou pas, pour le 5) ? Les étapes sont-elles dans l'ordre ? Rien n'a-t-il été fait avant le « oui » ? Le carnet dit-il la vérité ?
 
 ## 1. Réel — l'installation complète
 **Demande** : « /cci-sync »

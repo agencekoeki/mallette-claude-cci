@@ -55,8 +55,14 @@ Ces définitions sont volontairement générales. Le sens exact, les textes et l
 | **Mandat de paiement** | L'ordre de payer émis par l'ordonnateur, transmis au comptable. |
 | **Titre de recettes** | L'acte qui constate une somme due à l'établissement. |
 | **Imputation** | Le compte (budgétaire, analytique) sur lequel une dépense ou une recette est enregistrée. |
+| **Certificat de réalisation** | Le document qui atteste qu'une action financée a bien eu lieu, demandé par certains financeurs. Il ne remplace pas l'attestation remise au stagiaire. |
+| **BPF** | Le bilan pédagogique et financier : la déclaration annuelle d'activité de l'organisme de formation. |
+| **Preuve (Qualiopi)** | Un document daté qui montre qu'une pratique existe et qu'elle est appliquée. Une intention écrite n'est pas une preuve d'application. |
+| **Trace** | Ce qui reste d'un geste (courriel envoyé, feuille signée, fichier daté). Une preuve est une trace qu'on sait retrouver. |
 | **Instances** | Les organes de décision : assemblée générale, bureau, commissions. |
 | **Note aux élus** | Un document court qui éclaire une décision des instances. |
 | **Relevé de décisions** | La liste préparée de ce qui a été décidé en réunion, avec qui fait quoi et pour quand. Il prépare le procès-verbal, il ne le remplace pas. |
 | **Procès-verbal** | Le compte rendu officiel d'une instance, établi et approuvé selon les règles de l'établissement. Claude ne fait que le préparer. |
+| **Bloquant** | Ce qui empêche l'étape suivante tant qu'il n'est pas levé (une convention non signée avant la session, une facture sans bon de commande). |
+| **Point de non-retour** | Le moment après lequel un geste ne se rattrape plus (session commencée, mandat transmis). Sync et les compétences s'arrêtent avant. |
 | **Relance** | Un courriel qui demande à nouveau une action déjà demandée : une signature, un paiement, une pièce. Elle change quelque chose (l'interlocuteur, l'échéance, l'offre), sinon elle répète. |

@@ -1,0 +1,11 @@
+Données fictives, pour s'exercer.
+Extraction du logiciel de gestion des formations — CCI de Bellerive (fictive), centre de formation — sessions de novembre 2026 — extraite le 28/10/2026. Toutes les entreprises, salles et sessions sont inventées ; les formateurs et les stagiaires ne sont désignés que par des codes.
+code_session;intitule;dates;horaires;lieu;formateur;inscrits;minimum;maximum;financement;statut;remarques
+S-2611-01;Excel : tableaux croisés dynamiques;03/11/2026 et 04/11/2026;8h30-12h00 / 13h00-16h30;Salle informatique;F-02 (externe, vient en avion);9;5;10;entreprises seules (6) + OPCO A, paiement direct (3);confirmée;Vol aller le 02/11 arrivée 18h40 ; vol retour le 04/11 départ 15h10 ; hôtel réservé du 02/11 au 04/11 (2 nuits)
+S-2611-02;Accueil client et gestion des réclamations;05/11/2026 et 06/11/2026;8h30-12h00 / 13h00-16h30;Salle Alizé;F-05 (interne);14;6;14;entreprises seules;confirmée;Deux inscriptions ajoutées le 26/10 depuis la liste d'attente
+S-2611-03;Management de proximité — module 1;09/11/2026 et 10/11/2026;8h30-12h00 / 13h00-16h30;Salle Corail;F-07 (externe);7;6;12;OPCO A (5) + entreprise seule (2);confirmée;Session reportée (dates initiales : 12/10/2026 et 13/10/2026). Un stagiaire a demandé un accès de plain-pied à l'inscription
+S-2611-04;Anglais commercial — niveau intermédiaire;du 16/11/2026 au 20/11/2026 (5 matinées);8h30-12h00;Salle Alizé;F-09 (externe);3;5;10;entreprises seules;à confirmer;Décision de maintien prévue le 30/10/2026
+S-2611-05;Prise de parole en public;11/11/2026 et 12/11/2026;8h30-12h00 / 13h00-16h30;Salle Corail;F-05 (interne);8;5;12;entreprises seules (7) + 1 personne qui finance elle-même;confirmée;
+S-2611-06;Réseaux sociaux pour les TPE;18/11/2026;8h30-12h00 / 13h00-16h30;Salle Corail;F-11 (externe);10;6;12;entreprises seules;confirmée;
+S-2611-07;Gestion du temps et des priorités;10/11/2026 et 18/11/2026;8h30-12h00 / 13h00-16h30;Salle Alizé (10/11), Salle Corail (18/11);F-07 (externe);6;5;12;OPCO B;confirmée;
+S-2611-08;Techniques de vente en boutique (intra);24/11/2026 et 25/11/2026;8h00-12h00 / 13h00-16h00;Dans les locaux de l'entreprise (Boutiques Ylang, fictives);F-12 (externe);8;;8;OPCO A;option;Convention et accord de l'OPCO A en attente ; horaires demandés par l'entreprise

@@ -1,0 +1,14 @@
+Données fictives, pour s'exercer.
+Extraction du logiciel de gestion des formations — CCI de Bellerive (fictive) — conventions, contrats et factures des dossiers non clos — extraite le 28/10/2026. Toutes les entreprises sont inventées ; aucun stagiaire n'est nommé.
+reference;type;session;entreprise_ou_payeur;nb_stagiaires;financement;envoi;statut_logiciel;signature_ou_echeance;montant;observations
+C-26-141;convention;S-2611-01;Menuiserie Alba (fictive);2;entreprise seule;12/10/2026;non signée;;980 €;Aucune relance
+C-26-142;convention;S-2611-01;Transports Kerval (fictifs);3;OPCO A, paiement direct;12/10/2026;non signée;;1 470 €;Demande de prise en charge déposée par l'entreprise auprès de l'OPCO A le 15/10 ; pas d'accord reçu
+C-26-143;convention;S-2611-01;Pharmacie des Tilleuls (fictive);1;entreprise seule;12/10/2026;non signée;;490 €;PDF signé reçu le 22/10 dans la boîte générique du service formation, pas encore enregistré
+C-26-150;convention;S-2611-03;Hôtel Cap Bleu (fictif);5;OPCO A;18/09/2026;signée;signée le 22/09/2026;2 450 €;Convention établie aux dates initiales (12/10/2026 et 13/10/2026)
+C-26-151;convention;S-2611-03;Cabinet Ostra (fictif);2;entreprise seule;18/09/2026;signée;;980 €;Signature et cachet, sans date
+C-26-158;convention;S-2611-04;Fournil d'Or (fictif);1;entreprise seule;20/10/2026;non signée;;390 €;Relance 1 prévue le 29/10
+C-26-160;convention;S-2611-05;Supermarché Le Panier (fictif);4;entreprise seule;19/10/2026;signée;signée le 23/10/2026;1 960 €;Signée par l'un des quatre stagiaires (salarié), pas par la direction
+K-26-007;contrat;S-2611-05;personne qui finance elle-même (dossier P-26-031);1;personnel;27/10/2026;non signé;;490 €;Acompte de 50 % demandé à l'inscription, réglé le 27/10
+F-26-0907;facture;S-2609-01 (08/09/2026 et 09/09/2026);Garage des Quatre Routes (fictif);1;entreprise seule;10/09/2026;impayée;échéance 10/10/2026;490 €;Aucune relance
+F-26-0912;facture;S-2609-02 (22/09/2026 et 23/09/2026);OPCO B, pour Atelier Brume (fictif);3;OPCO B, paiement direct;30/09/2026;impayée;échéance 15/10/2026;1 470 €;Courriel de l'OPCO B du 14/10 : « certificat de réalisation manquant pour clôturer la prise en charge » — sans réponse
+F-26-1003;facture;S-2610-03 (06/10/2026);Transports Kerval (fictifs);2;entreprise seule;08/10/2026;non payée;échéance 07/11/2026;580 €;

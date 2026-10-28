@@ -1,6 +1,6 @@
 # Tests — cci-donnees
 
-À lancer chacun dans une conversation neuve, sur un compte de test, après avoir vérifié que la mallette est installée (Paramètres › Plugins). Aucune donnée réelle : les documents sont fictifs (CCI de Bellerive (fictive)). Pour chacun : la compétence s'est-elle chargée (ou pas, pour le 5) ? Claude est-il parti de la tâche avant le document ? A-t-il évité de demander plus que nécessaire ? La décision est-elle une des trois (✅ ⏳ 🔒), avec sa raison ? La sortie a-t-elle la forme fixe, et le DPO n'est-il cité que dans ses quatre cas ?
+À lancer chacun dans une conversation neuve, sur un compte de test, après avoir vérifié que la mallette est installée (Paramètres › Personnalisation › Plugins). Aucune donnée réelle : les documents sont fictifs (CCI de Bellerive (fictive)). Pour chacun : la compétence s'est-elle chargée (ou pas, pour le 5) ? Claude est-il parti de la tâche avant le document ? A-t-il évité de demander plus que nécessaire ? La décision est-elle une des trois (✅ ⏳ 🔒), avec sa raison ? La sortie a-t-elle la forme fixe, et le DPO n'est-il cité que dans ses quatre cas ?
 
 ## 1. Réel — les convocations d'une session
 **Demande** (une chargée de mission) : « Je peux coller le fichier Excel des inscrits de la session de mars pour que tu me fasses les convocations ? »

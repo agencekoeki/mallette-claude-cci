@@ -1,6 +1,6 @@
 # Tests — cci-retour
 
-À lancer chacun dans une conversation neuve, sur un compte de test, après avoir vérifié que la mallette est installée (Paramètres › Plugins). Les cas 1 et 3 demandent de jouer d'abord une courte tâche dans la même conversation. Pour chacun : la compétence s'est-elle chargée (ou pas, pour le 5) ? Une seule question à la fois, trois au plus ? Une reformulation avant la proposition ? Aucune donnée dans le bloc ? Le bloc a-t-il la forme fixe (cible, avant, après, raison, portée) ? Claude n'a-t-il rien modifié lui-même ?
+À lancer chacun dans une conversation neuve, sur un compte de test, après avoir vérifié que la mallette est installée (Paramètres › Personnalisation › Plugins). Les cas 1 et 3 demandent de jouer d'abord une courte tâche dans la même conversation. Pour chacun : la compétence s'est-elle chargée (ou pas, pour le 5) ? Une seule question à la fois, trois au plus ? Une reformulation avant la proposition ? Aucune donnée dans le bloc ? Le bloc a-t-il la forme fixe (cible, avant, après, raison, portée) ? Claude n'a-t-il rien modifié lui-même ?
 
 ## 1. Réel — corrigé deux fois
 **Situation** : Claude a préparé deux convocations, et la chargée de mission l'a corrigé deux fois, en remettant l'adresse et le plan d'accès en tête.

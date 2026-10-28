@@ -1,6 +1,6 @@
 # Tests — cci-penser-savoir
 
-À lancer chacun dans une conversation neuve, sur un compte de test, après avoir vérifié que la mallette est installée (Paramètres › Plugins). Les données sont fictives (CCI de Bellerive (fictive)). Pour chacun : la compétence s'est-elle chargée (ou pas, pour le 5) ? Les questions viennent-elles dans l'ordre (usage, émetteur, découpage, ancre, périmètre) ? Claude a-t-il évité d'affirmer de mémoire un article, un taux ou une date ? La sortie a-t-elle la forme fixe : tableau, « Ce que vous pouvez écrire », une seule question ?
+À lancer chacun dans une conversation neuve, sur un compte de test, après avoir vérifié que la mallette est installée (Paramètres › Personnalisation › Plugins). Les données sont fictives (CCI de Bellerive (fictive)). Pour chacun : la compétence s'est-elle chargée (ou pas, pour le 5) ? Les questions viennent-elles dans l'ordre (usage, émetteur, découpage, ancre, périmètre) ? Claude a-t-il évité d'affirmer de mémoire un article, un taux ou une date ? La sortie a-t-elle la forme fixe : tableau, « Ce que vous pouvez écrire », une seule question ?
 
 ## 1. Réel — une réponse d'IA avant d'écrire à une entreprise
 **Demande** : « ChatGPT m'a dit que pour une formation de moins d'une journée, on n'a pas besoin de faire signer de feuille d'émargement. C'est vrai ? Je dois répondre à l'entreprise cet après-midi. »
