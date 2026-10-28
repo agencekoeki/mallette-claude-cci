@@ -46,7 +46,7 @@ On met la pâte à lever avant d'expliquer la boulangerie. Sync travaille seul p
 
 ## L'entretien de l'atelier 1
 
-Il fait naître la matière des compétences métier (méthode de `koeki-forge-skill`, simplifiée dans `cci-competence`). Une personne à la fois, une question à la fois :
+Il fait naître la matière des compétences métier (méthode simplifiée dans `cci-competence`). Une personne à la fois, une question à la fois :
 1. « Racontez la dernière fois que vous avez fait cette tâche, du début. »
 2. « Qu'avez-vous regardé en premier ? Pourquoi pas autre chose d'abord ? »
 3. « Qu'est-ce qu'un nouveau collègue aurait raté ? »

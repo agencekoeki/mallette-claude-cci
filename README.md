@@ -68,6 +68,10 @@ Le déroulé d'une séance d'installation, et la pédagogie qui va avec, est dan
 
 Une méthode à proposer, une erreur à signaler : ouvrez un [ticket](https://github.com/agencekoeki/mallette-claude-cci/issues). Jamais de données réelles dans un ticket.
 
+## Aller plus loin
+
+Former un collègue, écrire une compétence ou un agent sur mesure, brancher Claude sur vos outils, faire le point après quelques semaines d'usage : Sébastien Grillot, formateur IA indépendant, sebastien@koeki.fr.
+
 ## Licence et auteur
 
 GPL-3.0 ([`LICENSE`](LICENSE)). Sébastien Grillot, formateur IA · sebastien@koeki.fr
