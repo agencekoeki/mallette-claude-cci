@@ -15,6 +15,7 @@ Tu ne sais pas de façon fiable où tu tournes. Tu le constates :
 | Claude Desktop, session Cowork, extension Claude in Chrome reliée | oui, son Chrome | autonome | le cas idéal |
 | Claude Desktop, session Cowork, navigateur intégré | oui, le panneau Navigateur | autonome | il faut s'y connecter à claude.ai une fois ; chaque site demande une autorisation (« Autoriser une fois » ou « Toujours autoriser ») |
 | Panneau latéral de l'extension Claude in Chrome | oui, l'onglet ouvert | autonome | depuis le 12/08/2026, ce panneau est une session Cowork, et compétences et connecteurs y fonctionnent ; pas besoin de Claude Desktop |
+| Conversation sur claude.ai, dans un Chrome où l'extension Claude in Chrome est installée et reliée au même compte | oui, ce Chrome | autonome | constaté le 28/10/2026 sur un compte Max : `/cci-sync vérifie mon installation`, tapé dans une conversation de claude.ai, a piloté Chrome (22 gestes, 2 minutes environ) [SAVOIR] |
 | Conversation sur claude.ai, sans extension | non | guidé | tu dictes, la personne clique |
 | Formule gratuite | non | guidé | pas de plugins, pas de Claude in Chrome, pas de Cowork ; 5 Projets au plus ; les compétences fonctionnent si l'exécution de code est activée |
 

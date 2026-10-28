@@ -30,8 +30,8 @@ Si votre service informatique bloque les extensions ou l'installation de logicie
 
 **Formules payantes (plugins) :**
 1. Paramètres › Personnalisation › **Plugins** › « **+ Ajouter** » › « **Ajouter une marketplace** » › « **Ajouter depuis un dépôt** ».
-2. Saisissez `agencekoeki/mallette-claude-cci` et validez.
-3. Dans la liste, installez **Mallette CCI**.
+2. Tapez `agencekoeki/mallette-claude-cci` dans le champ, validez avec Entrée, puis cliquez « **Synchroniser** ».
+3. La mallette apparaît sous le nom **Mallette cci** : cliquez « **Ajouter** ». Le message « Mallette cci est installé et prêt à être utilisé » confirme l'installation.
 
 **Formule gratuite (sans plugins) :**
 1. Téléchargez les archives `.zip` de la [dernière version](https://github.com/agencekoeki/mallette-claude-cci/releases/latest). Ne les décompressez pas.
@@ -39,8 +39,8 @@ Si votre service informatique bloque les extensions ou l'installation de logicie
 
 ## Étape 4 — Lancer Sync
 
-1. Ouvrez le panneau de Claude in Chrome, ou une session Cowork dans Claude Desktop.
-2. Tapez `/cci-sync` (la commande peut apparaître sous la forme `mallette-cci:cci-sync`).
+1. Ouvrez une nouvelle conversation sur claude.ai, dans le Chrome où l'extension est installée (ou le panneau de Claude in Chrome, ou une session Cowork dans Claude Desktop).
+2. Tapez `/cci-sync` et choisissez-le dans la liste (dans l'historique, la commande s'affiche `mallette-cci:cci-sync`). Pour un simple contrôle sans rien installer : `/cci-sync vérifie mon installation`.
 3. Répondez à ses deux questions, lisez le plan, et répondez « oui ».
 4. Le navigateur peut vous demander d'autoriser claude.ai : répondez **Autoriser**. Ne touchez plus à la fenêtre jusqu'au tableau de bord.
 

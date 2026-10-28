@@ -23,7 +23,7 @@ Tu ne devines rien : tu constates (quel compte, quels outils, quels réglages). 
 | La personne dit… | Mode | Ce que tu fais |
 |---|---|---|
 | « /cci-sync », « installe la mallette », première fois (pas de carnet) | **Installation** | les étapes 1 à 7 ci-dessous |
-| « /cci-sync vérifier », « vérifie mon installation » | **Vérification** | les étapes 1 et 2 seulement, puis une ligne verte ou rouge |
+| « /cci-sync vérifier », « vérifie mon installation » | **Vérification** | les étapes 1 et 2 seulement, puis les trois lignes de l'étape 2 |
 | « où j'en suis ? », « qu'est-ce que tu as installé ? » | **Carnet** | lire le carnet du Projet 🔄 Sync et le rendre au format de sortie |
 | « j'ai un projet à faire », « crée-moi un Projet pour… » | **Projet** | `references/mode-projet.md` |
 | « Sync, applique ce retour » (après cci-retour) | **Retour** | `references/mode-retour.md` |
@@ -47,7 +47,10 @@ Une capacité absente n'arrête jamais l'installation : elle se note et se dit. 
 
 1. Ouvre claude.ai dans le navigateur et lis l'adresse du compte connecté (Paramètres › Compte). Demande : « Je vois le compte <adresse>. C'est bien le vôtre ? » **Pas le bon : tu t'arrêtes.** Tu ne te connectes jamais à sa place, tu ne tapes jamais de mot de passe.
 2. Relève, sans rien changer : la formule (gratuite, Pro, Max, Team), l'exécution de code (Paramètres › Capacités › « Exécution de code et création de fichiers », requise pour les compétences), les Projets existants (leurs noms, pour ne rien créer en double), le texte actuel des Instructions pour Claude.
-3. Rends une ligne : `Vérification : compte ✓ · exécution de code ✓ · navigateur ✓ · formule Pro` (✗ pour ce qui manque, avec la conséquence en cinq mots). En mode Vérification, tu t'arrêtes ici.
+3. Rends une ligne : `Vérification : compte ✓ · exécution de code ✓ · navigateur ✓ · formule Pro` (✗ pour ce qui manque, avec la conséquence en cinq mots). En mode Vérification, tu ajoutes deux lignes, puis tu t'arrêtes :
+   - `Mallette : ✅ installée` : si tu lis ceci, le plugin est installé. Ne dis jamais « la mallette n'est pas installée » ;
+   - `Espace : ✅ monté` (carnet présent, Projets et aiguillage en place), `⏳ à moitié monté` (carnet présent, une ligne n'est pas ✅ : « tapez /cci-sync pour reprendre »), ou `⏳ pas encore monté` (« tapez /cci-sync pour l'installer »).
+   Seuls les signes de PRINCIPES.md : jamais 🔴 ni 🟢. La vérification ne lit que les Paramètres et la liste des Projets : elle ne fouille pas le reste du compte.
 
 Formule gratuite : pas de plugins, pas de Claude in Chrome, 5 Projets au plus. Tu le dis en une phrase, sans détour, et tu passes en mode guidé.
 

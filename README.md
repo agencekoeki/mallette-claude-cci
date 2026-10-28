@@ -45,8 +45,8 @@ Le détail, avec les cas particuliers, est dans [`docs/installer.md`](docs/insta
 1. **Un compte Claude**, avec votre adresse professionnelle. Formule Pro ou supérieure pour l'installation automatique ; la formule gratuite fonctionne en mode guidé.
 2. **Un navigateur que Claude peut piloter** : l'extension [Claude in Chrome](https://claude.com/chrome), ou Claude Desktop (Cowork).
 3. **L'exécution de code** : Paramètres › Capacités › « Exécution de code et création de fichiers ».
-4. **La mallette** : Paramètres › Personnalisation › Plugins › « + Ajouter » › « Ajouter une marketplace » › « Ajouter depuis un dépôt » › `agencekoeki/mallette-claude-cci`, puis installer **Mallette CCI**.
-5. **Sync** : dans le panneau de Claude in Chrome ou une session Cowork, tapez `/cci-sync`.
+4. **La mallette** : Paramètres › Personnalisation › Plugins › « + Ajouter » › « Ajouter une marketplace » › « Ajouter depuis un dépôt » › tapez `agencekoeki/mallette-claude-cci`, validez, « Synchroniser », puis « Ajouter » sur **Mallette cci**.
+5. **Sync** : dans une conversation de claude.ai (Chrome avec l'extension), le panneau de Claude in Chrome ou une session Cowork, tapez `/cci-sync`.
 
 Dans Claude Code : `/plugin install mallette-cci --marketplace agencekoeki/mallette-claude-cci`.
 
