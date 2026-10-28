@@ -1,0 +1,30 @@
+# Publie une version de la mallette quand on pousse une étiquette vX.Y.Z :
+# construit les archives des compétences (scripts/empaqueter.sh) et les joint à la version,
+# pour les comptes qui téléversent les compétences une à une (formule gratuite).
+name: Publier une version
+on:
+  push:
+    tags: ["v*"]
+permissions:
+  contents: write
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Vérifier que l'étiquette suit la version du plugin
+        run: |
+          v=$(python3 -c 'import json;print(json.load(open(".claude-plugin/plugin.json"))["version"])')
+          [ "v$v" = "$GITHUB_REF_NAME" ] || { echo "plugin.json dit $v, l'étiquette dit $GITHUB_REF_NAME" >&2; exit 1; }
+      - name: Construire les archives
+        run: bash scripts/empaqueter.sh
+      - name: Publier
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cat > notes.md <<'NOTES'
+          Installer la mallette : voir le README (Paramètres › Personnalisation › Plugins › « + Ajouter » › « Ajouter une marketplace » › `agencekoeki/mallette-claude-cci`).
+
+          Sans plugins (formule gratuite) : téléchargez ci-dessous les archives des compétences voulues, puis Paramètres › Personnalisation › Skills › « + Ajouter ». Commencez par `cci-sync.zip`.
+          NOTES
+          gh release create "$GITHUB_REF_NAME" dist/*.zip --title "Mallette Claude CCI $GITHUB_REF_NAME" --notes-file notes.md
