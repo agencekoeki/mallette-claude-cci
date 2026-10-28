@@ -1,0 +1,11 @@
+cci-sync	Monte et entretient votre espace Claude sous vos yeux : réglages, compétences, Projets. Pour « /cci-sync », « installe la mallette », « où j'en suis ? », « j'ai un projet à faire ».
+cci-penser-savoir	Trie ce qui est su, supposé et à vérifier, dans une réponse d'IA, un chiffre ou une règle, puis rend la phrase qu'on peut écrire. Pour « vérifie », « c'est sûr ? », « d'où ça sort ? ».
+cci-donnees	Avant de confier un document à Claude : le coller tel quel, le pseudonymiser, ou ne pas le coller. Pour « je peux mettre ça dans Claude ? », un fichier avec des noms, un connecteur.
+cci-retour	Fait remonter la méthode d'une tâche réussie (jamais les données) vers vos Projets et la mallette. Pour « retiens ça », « fais-en une règle », « la prochaine fois fais comme ça ».
+cci-courriel	Répondre, relancer, annoncer un changement : lire le fil, vérifier les faits, puis trois versions qui sont trois stratégies. Pour « réponds à ce mail », « fais une relance ».
+cci-reunion	Lit une réunion, une transcription ou des notes : décidé, à faire (qui, quoi, quand), validé à l'oral, questions ouvertes. Pour « fais le compte rendu », « qui fait quoi ? ».
+cci-competence	Fabrique votre propre compétence par un entretien sur un cas réel, puis livre l'archive à téléverser. Pour « crée-moi une compétence », « je veux que Claude fasse ça comme moi ».
+cci-formation-sessions	La vie d'une session de formation : convention, convocation, émargement, attestation, clôture, relances, planning des salles. Pour « la convention n'est pas revenue », « prépare la session ».
+cci-formation-qualiopi	Tenir le dossier Qualiopi : relier les pratiques aux indicateurs, rassembler les preuves, préparer l'audit. Pour « prépare l'audit », « quelles preuves ? », « indicateur ».
+cci-finances-mandats	De la facture au mandat de paiement : les contrôles dans l'ordre, le tableau pré-rempli, la validation humaine. Pour « prépare les mandats », « contrôle ces factures ».
+cci-instances	Préparer les instances : note aux élus, synthèse d'exécution budgétaire, ordre du jour. Pour « fais une note aux élus », « prépare le bureau », « synthèse pour l'AG ».

@@ -1,0 +1,23 @@
+{
+  "name": "mallette-cci",
+  "version": "0.1.0",
+  "description": "Sync monte et entretient votre espace Claude (réglages, compétences, Projets, aiguillage) ; onze compétences pour les équipes des CCI : vérifier ce qu'on affirme, protéger les données, courriels en trois stratégies, réunions, sessions de formation, Qualiopi, mandats de paiement, instances et notes aux élus, fabriquer sa compétence, faire remonter la méthode.",
+  "author": {
+    "name": "Sébastien Grillot",
+    "email": "sebastien@koeki.fr"
+  },
+  "homepage": "https://github.com/agencekoeki/mallette-claude-cci",
+  "repository": "https://github.com/agencekoeki/mallette-claude-cci",
+  "license": "GPL-3.0-only",
+  "keywords": [
+    "cci",
+    "chambre-de-commerce",
+    "formation",
+    "qualiopi",
+    "finances-publiques",
+    "agent-skills",
+    "claude",
+    "francais"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}

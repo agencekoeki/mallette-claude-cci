@@ -1,0 +1,19 @@
+{
+  "name": "mallette-claude-cci",
+  "owner": {
+    "name": "Sébastien Grillot",
+    "email": "sebastien@koeki.fr"
+  },
+  "metadata": {
+    "description": "Mallette Claude pour les équipes des CCI : Sync monte votre espace sous vos yeux, puis des compétences qui pensent comme le métier (formation, finances, instances, courriels, réunions).",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "mallette-cci",
+      "description": "Sync monte et entretient votre espace Claude (réglages, compétences, Projets, aiguillage) ; onze compétences pour les équipes des CCI : vérifier ce qu'on affirme, protéger les données, courriels en trois stratégies, réunions, sessions de formation, Qualiopi, mandats de paiement, instances et notes aux élus, fabriquer sa compétence, faire remonter la méthode.",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}

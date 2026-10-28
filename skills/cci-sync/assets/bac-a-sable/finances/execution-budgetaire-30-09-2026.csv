@@ -1,0 +1,18 @@
+Données fictives, pour s'exercer.
+CCI de Bellerive (fictive) — État d'exécution budgétaire au 30/09/2026 — exercice 2026 — montants en euros, dépenses toutes taxes comprises — extraction du logiciel financier (fictif) du 01/10/2026 — variation_br = modification votée au budget rectificatif du 26/06/2026 (fictif)
+sens;compte;libelle;analytique;budget_primitif;variation_br;engage;mandate_ou_titre
+Dépense;6061;Fournitures non stockables (eau, énergie);ADM;42000,00;4000,00;34500,00;31870,00
+Dépense;6064;Fournitures administratives;ADM;18000,00;0,00;12640,00;11210,40
+Dépense;611;Sous-traitance générale (intervenants de formation);FOR;40000,00;8000,00;41250,00;28600,00
+Dépense;6135;Locations mobilières;ADM;9600,00;0,00;7450,00;4980,40
+Dépense;6156;Maintenance;ADM;24000,00;-2000,00;17300,00;13940,00
+Dépense;616;Primes d'assurance;ADM;31500,00;0,00;31214,00;31214,00
+Dépense;6226;Honoraires;ADM;15000,00;6000,00;19800,00;9600,00
+Dépense;6233;Foires et expositions;EVE;12000,00;0,00;10880,00;9450,00
+Dépense;6236;Catalogues et imprimés;EVE;8000,00;0,00;5420,00;5420,00
+Dépense;6251;Voyages et déplacements;FOR;7500,00;0,00;4980,00;4310,00
+Dépense;6257;Réceptions;EVE;6000,00;0,00;3100,00;3400,00
+Dépense;6262;Frais de télécommunications;ADM;14400,00;0,00;14400,00;10650,00
+Recette;706;Prestations de services (formation);FOR;120000,00;10000,00;;86400,00
+Recette;7083;Locations diverses (salles);ADM;18000,00;0,00;;9750,00
+Recette;74;Subventions d'exploitation;ADM;25000,00;0,00;;25000,00

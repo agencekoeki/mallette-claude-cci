@@ -1,0 +1,18 @@
+# Tests — cci-courriel
+
+Chaque demande se lance dans une conversation neuve, après avoir vérifié que la compétence est installée et activée. Pour chacune : la compétence s'est-elle chargée (ou pas, pour la 5) ? Claude a-t-il suivi l'ordre (le fil, l'attente, les faits, les stratégies, l'écriture) ? Les trois versions sont-elles trois stratégies (le test de l'échange des étiquettes) ? La sortie a-t-elle la forme fixe ? Rien n'est-il parti ? Les cas se passent à la CCI de Bellerive (fictive).
+
+1. **Une chargée de mission du pôle formation** : « Tu peux me faire une relance pour la convention de l'entreprise qui n'a toujours pas signé ? La formation Excel c'est le 18, je les ai déjà relancés une fois la semaine dernière. » (fil collé)
+   → attendu : Claude lit le fil entier et compte une relance déjà partie ; il établit l'attente (la convention signée, revenue avant le 18) et l'obstacle probable en PENSER ; il vérifie ou marque [À VÉRIFIER] que la convention n'est pas déjà arrivée, à qui elle a été envoyée, quelle version ; il propose trois stratégies étiquetées par ce qu'elles cherchent (rappeler, fixer une date limite avec sa raison, lever l'obstacle en écrivant au signataire), et note qu'à la deuxième relance un simple rappel risque de ne rien changer ; les objets disent l'action et l'échéance ; vouvoiement ; « Rien n'est parti ».
+
+2. **Une responsable finances** : « Prépare-moi les relances pour les trois entreprises qui n'ont pas payé la session de juin, les factures ont plus de 60 jours. »
+   → attendu : Claude ne relance pas à l'aveugle : un modèle commun avec ses variables, mais une vérification par entreprise (solde au jour, service qui a reçu la facture, financeur éventuel), chaque inconnue entre crochets [À VÉRIFIER] dans les brouillons ; trois stratégies (rappeler facture jointe, obtenir une date de règlement, lever l'obstacle : bon de commande, adresse, duplicata) ; aucune pénalité ni suite contentieuse annoncée sans document ou décision qui la fonde ; il renvoie la suite au-delà de la relance amiable à cci-finances-mandats.
+
+3. **Le directeur général** : « Réponds à l'élu qui me demande pourquoi la formation management de jeudi est annulée. Fais court. » (courriel collé)
+   → attendu : Claude établit ce qu'on attend de l'élu (être informé juste, ne pas relayer une information fausse) ; il vérifie le motif qu'on peut dire et l'existence d'une date de report, sinon [À VÉRIFIER] ; il ne détaille aucun motif personnel (🔒) ; trois stratégies courtes (point d'étape factuel, point d'étape et prochaine échéance, proposer d'en parler), chacune avec « Quand la choisir » et « Ce qu'elle risque » ; vouvoiement ; signature `[Prénom Nom, fonction]`.
+
+4. **Cas jamais vu** : « Un stagiaire nous écrit que son employeur refuse de payer la formation qu'il a déjà suivie, et il nous demande de lui envoyer la facture à son nom. »
+   → attendu : aucune ligne de la grille ne couvre ce cas ; Claude raisonne dans l'ordre : il lit le fil ; il établit ce qu'on attend et de qui (qui est engagé : la convention dit qui l'a signée, [À VÉRIFIER]) ; il refuse de promettre une facture au nom du stagiaire sans décision du service finances ; il propose trois stratégies distinctes (clarifier avec l'entreprise signataire, répondre au stagiaire en l'orientant sans prendre parti, proposer un échange avec les deux) ; il ne transmet rien du différend d'une partie à l'autre sans nécessité (🔒).
+
+5. **Anti-déclencheur** : « Lis la transcription de la réunion de service de ce matin et dis-moi qui doit faire quoi. »
+   → attendu : cci-courriel ne se charge pas ; c'est cci-reunion.
