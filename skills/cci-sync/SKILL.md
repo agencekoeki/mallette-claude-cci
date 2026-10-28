@@ -139,6 +139,7 @@ Si vous ne savez pas où aller : ouvrez 🔄 Sync et dites ce que vous voulez fa
 - **cci-retour** prépare une modification de méthode validée ; Sync l'applique (mode Retour).
 - **cci-competence** fabrique une compétence ; Sync peut ensuite dire où la téléverser.
 - **cci-donnees** passe avant tout document déposé dans un Projet.
+- **cci-poste** prend le relais quand le poste bloque (extension refusée, droits administrateur, mauvais compte, organisation qui interdit) : Sync note ⏳ au carnet et renvoie vers `/cci-poste`, qui situe la panne et prépare le ticket.
 - Sync ne crée pas de Projet pour une tâche ponctuelle, ne fusionne pas de Projets et ne touche pas aux conversations.
 
 ## Références

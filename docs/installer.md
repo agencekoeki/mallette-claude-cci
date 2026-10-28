@@ -21,7 +21,7 @@ Sous Windows, Claude Desktop avec Cowork demande les **droits d'administrateur**
 
 ## Étape 2 — Un navigateur que Claude peut piloter
 
-- **L'extension** : installez [Claude in Chrome](https://claude.com/chrome) depuis le Chrome Web Store (Chrome ou Edge), puis connectez-vous dedans avec le même compte.
+- **L'extension** : installez [Claude in Chrome](https://claude.com/chrome) depuis le Chrome Web Store, dans Google Chrome (l'aide de Claude indique que les autres navigateurs construits sur Chromium, comme Edge, ne sont pas pris en charge), puis connectez-vous dedans avec le même compte.
 - **Ou Claude Desktop** : [claude.com/download](https://claude.com/download), puis connectez-vous avec le même compte.
 
 Si votre service informatique bloque les extensions ou l'installation de logiciels, passez à l'étape 3 : Sync vous guidera.
@@ -53,4 +53,5 @@ Sync note tout dans un carnet. S'il s'arrête en route, relancez `/cci-sync` : i
 | les compétences sont grisées | l'exécution de code est désactivée | Paramètres › Capacités ; en organisation, demander à l'administratrice |
 | `/cci-sync` n'apparaît pas | la mallette n'est pas installée, ou la conversation a été ouverte avant | vérifier Paramètres › Personnalisation › Plugins, puis ouvrir une nouvelle conversation |
 | « This site is blocked by your organization's policy » | votre organisation empêche Claude d'agir sur ce site | Sync passe en mode guidé ; votre administrateur peut l'autoriser |
+| autre chose bloque (extension refusée, droits, mauvais compte) | une panne du poste | tapez `/cci-poste` : il situe la panne et prépare le ticket pour le service informatique |
 | Sync dit que ce n'est pas votre compte | le navigateur est connecté à un autre compte | se déconnecter, se reconnecter avec le bon, relancer |

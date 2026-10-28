@@ -19,6 +19,7 @@ Une mallette de compétences pour [Claude](https://claude.ai), faite pour les é
 | `cci-sync` | monte et entretient l'espace : réglages, compétences, Projets, aiguillage, carnet ; dit où aller |
 | `cci-penser-savoir` | trie ce qui est su (SAVOIR), estimé (PENSER) et à vérifier (À VÉRIFIER), puis rend la phrase qu'on peut écrire |
 | `cci-donnees` | avant de confier un document à Claude : coller tel quel, anonymiser, ou ne pas coller |
+| `cci-poste` | quand le poste de travail bloque : situer la panne, faire ce qui est sans risque, ou écrire le ticket pour le service informatique |
 | `cci-courriel` | répondre, relancer, annoncer : toujours trois versions, qui sont trois stratégies |
 | `cci-reunion` | lire une réunion : décidé, à faire (qui, quoi, quand), validé à l'oral, questions ouvertes |
 | `cci-competence` | fabriquer sa propre compétence, par un entretien sur un cas réel |

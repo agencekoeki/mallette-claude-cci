@@ -29,7 +29,16 @@ Un mot, un sens. Les compétences emploient ces mots exactement ainsi. Quand un 
 | **SAVOIR / PENSER / À VÉRIFIER** | Les trois marques de toute affirmation : prouvée par une source qu'on peut ouvrir ; estimée et dite comme telle ; à trancher par une question précise. |
 | **Méthode** | L'ordre des questions et les refus qui font qu'un travail est bien fait. C'est ce que `cci-retour` fait remonter, jamais les données. |
 | **Fiche de méthode** | La forme fixe sous laquelle `cci-retour` propose une amélioration : la cible, le texte avant, le texte après, la raison. Sans aucune donnée. |
-| **Ticket** | Une proposition ou un signalement déposé sur la page des tickets du dépôt de la mallette (GitHub, « Issues »). Jamais de données réelles dans un ticket. |
+| **Ticket** | Une proposition ou un signalement déposé sur la page des tickets du dépôt de la mallette (GitHub, « Issues »). Jamais de données réelles dans un ticket. À ne pas confondre avec le ticket informatique. |
+
+## Le poste
+
+| Mot | Sens | Ne pas confondre avec |
+|---|---|---|
+| **Poste de travail** | L'ordinateur, ses logiciels, son navigateur et le compte avec lequel on s'y connecte. | le Projet 🧭 Mon poste |
+| **Service informatique (DSI)** | Le service qui tient les postes, les comptes et les règles de sécurité de l'établissement. | le DPO |
+| **Ticket informatique** | La demande écrite au service informatique : ce que je voulais faire, ce qui se passe (message exact), ce que j'ai essayé, l'impact. `cci-poste` la prépare. | un ticket de la mallette |
+| **Propriétaire de l'organisation** (Claude) | En formule Team, la personne qui règle l'organisation Claude : compétences, plugins, Claude in Chrome. | le service informatique |
 
 ## Les données
 

@@ -1,7 +1,7 @@
 {
   "name": "mallette-cci",
-  "version": "0.1.1",
-  "description": "Sync monte et entretient votre espace Claude (réglages, compétences, Projets, aiguillage) ; onze compétences pour les équipes des CCI : vérifier ce qu'on affirme, protéger les données, courriels en trois stratégies, réunions, sessions de formation, Qualiopi, mandats de paiement, instances et notes aux élus, fabriquer sa compétence, faire remonter la méthode.",
+  "version": "0.1.2",
+  "description": "Sync monte et entretient votre espace Claude (réglages, compétences, Projets, aiguillage) ; douze compétences pour les équipes des CCI : vérifier ce qu'on affirme, protéger les données, dépanner le poste, courriels en trois stratégies, réunions, sessions de formation, Qualiopi, mandats de paiement, instances et notes aux élus, fabriquer sa compétence, faire remonter la méthode.",
   "author": {
     "name": "Sébastien Grillot",
     "email": "sebastien@koeki.fr"
